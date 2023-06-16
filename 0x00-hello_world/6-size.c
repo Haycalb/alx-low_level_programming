@@ -2,7 +2,7 @@
 /**
  * main - A program that prints the sizes of various size on the computer
  *  Return: 0 (Success)
- *  */
+ */
 int main(void)
 {
 	char a;
